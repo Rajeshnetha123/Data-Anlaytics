@@ -1,0 +1,301 @@
+Patient_ID,Name,Age,Gender,Department,Diagnosis,Visit_Date,Bill_Amount,Doctor_Name
+P001,Michael Taylor,,Other,Orthopedics,Skin Rash,2023-05-22 00:00:00,3751,Dr. B. Lee
+P002,William Wilson,59,Male,Neurology,Cancer,2023-05-29 00:00:00,,Dr. F. Chen
+P003,Mia Williams,,,Dermatology,Cancer,2023-05-15 00:00:00,3947,Dr. B. Lee
+P004,William Garcia,,Other,,Unknown,2023-05-29 00:00:00,,
+P005,John Rodriguez,25,,Orthopedics,Skin Rash,2023-03-31 00:00:00,4184,Dr. D. Johnson
+P006,Charlotte Lopez,11,,Neurology,,2023-06-21 00:00:00,,Dr. E. Patel
+P007,John Thomas,9,,Dermatology,,2023-06-26 00:00:00,,Dr. E. Patel
+P008,Ethan Hernandez,14,,General Surgery,Appendicitis,2023-05-02 00:00:00,2205,Dr. C. Adams
+P009,Michael Thomas,,Male,Dermatology,Migraine,Not Recorded,2372,
+P010,James Davis,,,General Surgery,Hypertension,2023-01-04 00:00:00,4802,Dr. E. Patel
+P011,Ethan Jones,,,Cardiology,Cancer,2023-06-01 00:00:00,,Dr. A. Smith
+P012,Isabella Smith,8,,Oncology,Unknown,2023-04-10 00:00:00,1996,Dr. E. Patel
+P013,Isabella Anderson,,Other,Dermatology,Cancer,2023-05-04 00:00:00,,
+P014,Liam Miller,,Other,Oncology,Migraine,2023-05-09 00:00:00,2036,Dr. A. Smith
+P015,Noah Moore,,Male,Dermatology,Flu,2023-05-29 00:00:00,3321,Dr. B. Lee
+P016,Sophia Miller,,Other,Orthopedics,Unknown,2023-03-04 00:00:00,,Dr. C. Adams
+P017,Michael Brown,43,Other,General Surgery,Fracture,2023-04-28 00:00:00,,Dr. F. Chen
+P018,Mia Jones,2,Female,Oncology,Flu,2023-04-21 00:00:00,2840,Dr. G. Ali
+P019,Emily Anderson,74,,Oncology,Appendicitis,2023-06-14 00:00:00,,
+P020,John Smith,,Male,General Surgery,Fracture,2023-05-26 00:00:00,1474,Dr. G. Ali
+P021,Ava Williams,,Other,Orthopedics,Cancer,2023-04-10 00:00:00,4650,Dr. B. Lee
+P022,Sophia Lopez,3,Other,General Surgery,Migraine,2023-06-14 00:00:00,,Dr. F. Chen
+P023,Michael Johnson,Unknown,Male,Orthopedics,Appendicitis,2023-04-20 00:00:00,2357,Dr. B. Lee
+P024,Sophia Gonzalez,47,Male,Orthopedics,Hypertension,2023-03-26 00:00:00,4707,Dr. A. Smith
+P025,William Miller,74,Other,Cardiology,Fracture,2023-06-26 00:00:00,,Dr. B. Lee
+P026,Alexander Wilson,53,Other,,Fracture,2023-05-10 00:00:00,,Dr. E. Patel
+P027,Mia Miller,42,Female,Oncology,Asthma,2023-06-26 00:00:00,Invalid,
+P028,Ava Jackson,Unknown,Other,Pediatrics,Skin Rash,2023-05-17 00:00:00,,Dr. C. Adams
+P029,James Thomas,59,,Orthopedics,Flu,2023-04-09 00:00:00,,Dr. D. Johnson
+P030,John Jackson,,Other,Dermatology,Migraine,2023-02-25 00:00:00,2616,Dr. B. Lee
+P031,Michael Smith,,Female,Cardiology,Cancer,2023-06-10 00:00:00,,Dr. A. Smith
+P032,Alexander Brown,,,,Migraine,2023-05-12 00:00:00,939,
+P033,James Rodriguez,,,Oncology,Unknown,2023-02-17 00:00:00,,Dr. G. Ali
+P034,Emily Wilson,,Other,Orthopedics,Flu,2023-05-12 00:00:00,,Dr. G. Ali
+P035,Alexander Moore,,Female,General Surgery,Asthma,2023-06-20 00:00:00,,Dr. D. Johnson
+P036,Emily Wilson,Unknown,Male,Neurology,Migraine,2023-05-28 00:00:00,2954,
+P037,Emily Thomas,,,General Surgery,Skin Rash,2023-06-18 00:00:00,,Dr. E. Patel
+P038,Michael Davis,45,Male,Neurology,Diabetes,2023-03-22 00:00:00,,Dr. E. Patel
+P039,Ethan Martin,,Female,Cardiology,Diabetes,2023-01-22 00:00:00,4535,Dr. C. Adams
+P040,William Garcia,1,Female,Pediatrics,Migraine,2023-05-18 00:00:00,1460,Dr. E. Patel
+P041,Emma Jones,,Female,Cardiology,Appendicitis,2023-04-03 00:00:00,,
+P042,Ethan Lopez,,Female,,Skin Rash,2023-06-27 00:00:00,2266,Dr. E. Patel
+P043,Michael Martinez,19,Female,Dermatology,Skin Rash,2023-03-22 00:00:00,2254,Dr. E. Patel
+P044,James Anderson,,Other,Oncology,Skin Rash,2023-04-02 00:00:00,,Dr. C. Adams
+P045,Amelia Davis,82,Female,General Surgery,Fracture,2023-06-15 00:00:00,,Dr. G. Ali
+P046,Alexander Smith,,Other,Pediatrics,Flu,2023-05-15 00:00:00,Invalid,Dr. E. Patel
+P047,Sarah Jackson,36,Other,Pediatrics,Diabetes,2023-04-29 00:00:00,1974,Dr. C. Adams
+P048,James Lopez,62,Female,Neurology,Fracture,2023-06-28 00:00:00,746,Dr. E. Patel
+P049,Liam Jackson,13,Other,Neurology,Appendicitis,2023-01-10 00:00:00,Invalid,Dr. D. Johnson
+P050,Ava Brown,,Male,General Surgery,Fracture,2023-06-26 00:00:00,1136,Dr. C. Adams
+P051,Sarah Martinez,,Other,Pediatrics,Unknown,2023-04-05 00:00:00,,Dr. F. Chen
+P052,Charlotte Anderson,7,Female,Oncology,Flu,2023-04-29 00:00:00,2563,Dr. B. Lee
+P053,Ethan Hernandez,84,,Oncology,Skin Rash,2023-03-31 00:00:00,820,Dr. D. Johnson
+P054,Sarah Brown,,,Dermatology,Cancer,2023-03-06 00:00:00,1488,Dr. G. Ali
+P055,John Davis,77,,,Migraine,2023-01-21 00:00:00,3302,Dr. A. Smith
+P056,Isabella Martin,,Other,Dermatology,Flu,2023-03-31 00:00:00,,Dr. A. Smith
+P057,Emma Wilson,12,Female,Cardiology,Diabetes,2023-06-25 00:00:00,,Dr. A. Smith
+P058,Amelia Gonzalez,,Other,General Surgery,Unknown,2023-01-17 00:00:00,,Dr. A. Smith
+P059,John Gonzalez,78,Other,Cardiology,Diabetes,2023-04-21 00:00:00,1846,Dr. F. Chen
+P060,Olivia Jackson,28,,General Surgery,Hypertension,2023-01-18 00:00:00,882,Dr. D. Johnson
+P061,Ava Gonzalez,,Female,Oncology,,2023-01-16 00:00:00,Invalid,Dr. G. Ali
+P062,Emily Wilson,78,,Oncology,Skin Rash,2023-02-11 00:00:00,,Dr. A. Smith
+P063,Liam Smith,,Other,Dermatology,Fracture,2023-04-10 00:00:00,,Dr. B. Lee
+P064,David Williams,20,,Orthopedics,Unknown,2023-06-03 00:00:00,,Dr. D. Johnson
+P065,Liam Garcia,Unknown,,General Surgery,Flu,2023-06-10 00:00:00,,Dr. F. Chen
+P066,Liam Rodriguez,,Male,Pediatrics,Diabetes,2023-05-05 00:00:00,,Dr. B. Lee
+P067,Noah Miller,,Other,Neurology,Migraine,2023-01-27 00:00:00,,Dr. A. Smith
+P068,James Jones,27,Male,General Surgery,Migraine,2023-06-23 00:00:00,,Dr. D. Johnson
+P069,James Taylor,,Female,Pediatrics,Fracture,2023-05-02 00:00:00,,Dr. D. Johnson
+P070,Emily Anderson,,,General Surgery,,2023-03-12 00:00:00,Invalid,Dr. B. Lee
+P071,Liam Rodriguez,39,Other,,Asthma,2023-01-13 00:00:00,,Dr. F. Chen
+P072,John Rodriguez,,Female,Cardiology,Appendicitis,2023-06-05 00:00:00,,Dr. C. Adams
+P073,Amelia Brown,25,Female,,Unknown,2023-05-04 00:00:00,,Dr. G. Ali
+P074,Ava Taylor,Unknown,Male,General Surgery,Cancer,2023-01-24 00:00:00,,Dr. A. Smith
+P075,Isabella Jones,31,Female,Oncology,Flu,2023-06-07 00:00:00,,Dr. B. Lee
+P076,Charlotte Martinez,Unknown,Other,General Surgery,Diabetes,2023-02-10 00:00:00,977,Dr. A. Smith
+P077,Emma Davis,35,Male,Pediatrics,Flu,2023-03-05 00:00:00,,Dr. G. Ali
+P078,Amelia Rodriguez,,Male,Orthopedics,Skin Rash,2023-02-17 00:00:00,4228,Dr. F. Chen
+P079,William Taylor,,Female,Orthopedics,Hypertension,2023-04-28 00:00:00,2512,Dr. D. Johnson
+P080,Noah Williams,,Female,Dermatology,Hypertension,Not Recorded,2332,Dr. D. Johnson
+P081,Sarah Anderson,20,,Cardiology,Hypertension,2023-02-17 00:00:00,,Dr. B. Lee
+P082,Olivia Rodriguez,53,Female,Cardiology,Hypertension,2023-01-14 00:00:00,1801,
+P083,Isabella Davis,73,Male,Pediatrics,Cancer,2023-01-02 00:00:00,1946,Dr. A. Smith
+P084,Mia Martin,29,,General Surgery,Unknown,2023-02-05 00:00:00,4633,Dr. G. Ali
+P085,Sarah Smith,73,Other,General Surgery,Unknown,2023-02-17 00:00:00,1941,
+P086,Ava Jones,,Male,Orthopedics,Flu,2023-05-06 00:00:00,2626,Dr. F. Chen
+P087,Sarah Wilson,37,,Pediatrics,Skin Rash,2023-01-18 00:00:00,3559,Dr. F. Chen
+P088,Liam Anderson,,Male,Orthopedics,Unknown,2023-05-19 00:00:00,,
+P089,Alexander Thomas,,,,Hypertension,2023-04-27 00:00:00,Invalid,Dr. G. Ali
+P090,Mia Gonzalez,Unknown,Other,Neurology,Flu,Not Recorded,,Dr. A. Smith
+P091,William Hernandez,,Female,Orthopedics,Appendicitis,2023-03-07 00:00:00,,Dr. F. Chen
+P092,Daniel Smith,,Male,Cardiology,Fracture,2023-04-11 00:00:00,Invalid,Dr. E. Patel
+P093,Emily Anderson,,Other,Pediatrics,Asthma,2023-02-07 00:00:00,3523,Dr. C. Adams
+P094,Charlotte Rodriguez,,Female,Dermatology,Hypertension,2023-03-02 00:00:00,4429,Dr. F. Chen
+P095,Noah Jackson,64,Female,Orthopedics,Flu,2023-06-12 00:00:00,,Dr. E. Patel
+P096,David Gonzalez,,Male,Pediatrics,Unknown,2023-05-03 00:00:00,4158,Dr. F. Chen
+P097,Daniel Lopez,52,Male,Pediatrics,Migraine,2023-05-27 00:00:00,,Dr. B. Lee
+P098,John Moore,35,Female,Cardiology,Flu,2023-02-20 00:00:00,,Dr. B. Lee
+P099,Liam Davis,Unknown,Male,Neurology,Cancer,2023-02-15 00:00:00,,Dr. C. Adams
+P100,Noah Smith,,,Dermatology,Unknown,2023-01-14 00:00:00,804,Dr. E. Patel
+P101,Olivia Thomas,,,Oncology,Flu,2023-01-12 00:00:00,3234,Dr. A. Smith
+P102,Mia Williams,,Other,Oncology,Skin Rash,2023-02-09 00:00:00,2088,Dr. B. Lee
+P103,David Smith,88,,Orthopedics,,2023-05-14 00:00:00,1528,Dr. G. Ali
+P104,Charlotte Smith,4,Other,Dermatology,Migraine,2023-01-26 00:00:00,,Dr. D. Johnson
+P105,Emily Brown,45,Other,General Surgery,Hypertension,2023-06-25 00:00:00,,Dr. F. Chen
+P106,Ethan Wilson,32,Female,Oncology,Flu,2023-01-05 00:00:00,,Dr. E. Patel
+P107,Emma Williams,Unknown,,Pediatrics,Skin Rash,2023-02-11 00:00:00,,Dr. G. Ali
+P108,Sophia Davis,,Female,General Surgery,Unknown,2023-03-16 00:00:00,Invalid,
+P109,Emily Thomas,,,Neurology,Fracture,2023-04-19 00:00:00,2941,Dr. D. Johnson
+P110,Daniel Williams,57,,Neurology,Flu,2023-05-26 00:00:00,,Dr. F. Chen
+P111,Alexander Jackson,,Other,Pediatrics,Asthma,2023-01-01 00:00:00,634,Dr. D. Johnson
+P112,Emily Johnson,,Female,Neurology,Hypertension,2023-02-10 00:00:00,2130,Dr. B. Lee
+P113,Isabella Hernandez,,Female,Cardiology,Flu,2023-04-21 00:00:00,4572,Dr. D. Johnson
+P114,Noah Anderson,,Other,Oncology,Fracture,2023-03-10 00:00:00,4774,Dr. D. Johnson
+P115,John Jones,64,Male,Pediatrics,Migraine,2023-01-04 00:00:00,4068,
+P116,Amelia Martinez,5,Other,Neurology,Flu,2023-03-24 00:00:00,1994,
+P117,John Moore,,,Cardiology,Cancer,2023-06-23 00:00:00,,Dr. E. Patel
+P118,Alexander Smith,15,Other,General Surgery,Fracture,2023-04-17 00:00:00,3298,Dr. D. Johnson
+P119,Amelia Moore,,Other,,Hypertension,2023-04-11 00:00:00,,Dr. D. Johnson
+P120,Daniel Wilson,82,Female,Neurology,Flu,2023-06-15 00:00:00,,Dr. E. Patel
+P121,Alexander Williams,,Female,Oncology,Hypertension,2023-02-07 00:00:00,,Dr. C. Adams
+P122,James Jones,15,,Neurology,,2023-03-06 00:00:00,4503,Dr. B. Lee
+P123,Amelia Miller,,Female,General Surgery,Asthma,2023-03-26 00:00:00,,Dr. A. Smith
+P124,Sarah Smith,19,Female,Cardiology,Cancer,2023-02-17 00:00:00,1795,Dr. D. Johnson
+P125,Sarah Anderson,74,,Oncology,Hypertension,2023-06-13 00:00:00,,Dr. C. Adams
+P126,Sophia Davis,,Female,Dermatology,Flu,2023-04-13 00:00:00,3696,Dr. A. Smith
+P127,John Rodriguez,,Female,Pediatrics,Hypertension,2023-05-16 00:00:00,1160,Dr. B. Lee
+P128,David Miller,,,Pediatrics,Diabetes,2023-01-13 00:00:00,,Dr. A. Smith
+P129,Noah Martin,,Other,Pediatrics,Unknown,2023-02-15 00:00:00,,Dr. F. Chen
+P130,John Wilson,74,Female,Cardiology,Migraine,2023-03-11 00:00:00,Invalid,Dr. E. Patel
+P131,Michael Gonzalez,46,,Orthopedics,Flu,2023-01-27 00:00:00,,Dr. E. Patel
+P132,Michael Martinez,,Other,Pediatrics,Hypertension,2023-06-16 00:00:00,,Dr. C. Adams
+P133,William Anderson,Unknown,,Orthopedics,Diabetes,2023-02-05 00:00:00,1309,Dr. C. Adams
+P134,Alexander Martin,66,,General Surgery,Hypertension,2023-05-10 00:00:00,,Dr. E. Patel
+P135,Isabella Jones,,Other,Dermatology,Asthma,2023-04-12 00:00:00,4507,Dr. D. Johnson
+P136,Michael Martin,,Male,Cardiology,Cancer,2023-04-25 00:00:00,3155,Dr. C. Adams
+P137,Emily Taylor,,Male,General Surgery,Unknown,2023-01-16 00:00:00,3597,Dr. G. Ali
+P138,Michael Johnson,,Male,,Skin Rash,2023-03-13 00:00:00,,Dr. G. Ali
+P139,Charlotte Martin,,,Pediatrics,Flu,2023-04-13 00:00:00,,Dr. A. Smith
+P140,Charlotte Smith,,Other,Pediatrics,Skin Rash,2023-05-10 00:00:00,,Dr. A. Smith
+P141,Ethan Hernandez,32,Male,,,2023-05-28 00:00:00,2727,Dr. E. Patel
+P142,James Martin,54,,Dermatology,Asthma,2023-06-27 00:00:00,,Dr. G. Ali
+P143,James Wilson,,Male,Oncology,Hypertension,2023-02-21 00:00:00,,Dr. D. Johnson
+P144,Charlotte Martinez,63,,Neurology,Diabetes,2023-01-10 00:00:00,,Dr. E. Patel
+P145,Isabella Martin,,Male,Dermatology,Appendicitis,2023-02-06 00:00:00,,Dr. A. Smith
+P146,Amelia Taylor,35,Male,Dermatology,Appendicitis,2023-03-03 00:00:00,,Dr. B. Lee
+P147,Ava Jackson,,Female,Neurology,Asthma,2023-05-06 00:00:00,,
+P148,Charlotte Taylor,,Female,General Surgery,Flu,2023-03-02 00:00:00,,Dr. B. Lee
+P149,William Smith,41,Other,Oncology,Appendicitis,2023-03-07 00:00:00,,Dr. C. Adams
+P150,Noah Martin,42,Female,Cardiology,Skin Rash,2023-03-04 00:00:00,3627,
+P151,Amelia Lopez,73,Male,Neurology,Unknown,2023-04-06 00:00:00,Invalid,Dr. E. Patel
+P152,Liam Jones,15,Other,Cardiology,Hypertension,2023-04-05 00:00:00,1810,Dr. A. Smith
+P153,Sophia Brown,,Male,Orthopedics,Hypertension,2023-03-27 00:00:00,,Dr. B. Lee
+P154,Isabella Jackson,Unknown,Female,Cardiology,Hypertension,2023-04-13 00:00:00,,Dr. B. Lee
+P155,Liam Anderson,66,,,Migraine,2023-02-20 00:00:00,3337,
+P156,John Brown,Unknown,Female,General Surgery,Skin Rash,2023-02-17 00:00:00,1806,Dr. B. Lee
+P157,David Moore,,Male,Orthopedics,Appendicitis,2023-06-09 00:00:00,,Dr. A. Smith
+P158,Olivia Rodriguez,37,,Oncology,Cancer,2023-05-13 00:00:00,1246,
+P159,Ava Moore,,Other,Pediatrics,Asthma,2023-05-19 00:00:00,,Dr. B. Lee
+P160,Emma Wilson,3,,General Surgery,Unknown,2023-04-20 00:00:00,4736,Dr. C. Adams
+P161,Mia Jones,,Other,Dermatology,Skin Rash,2023-03-07 00:00:00,2271,
+P162,Noah Anderson,,,Neurology,Flu,2023-01-01 00:00:00,4255,Dr. D. Johnson
+P163,David Martin,,Other,Oncology,Hypertension,2023-05-14 00:00:00,,Dr. G. Ali
+P164,James Gonzalez,Unknown,Other,General Surgery,Skin Rash,2023-06-12 00:00:00,,Dr. D. Johnson
+P165,Mia Williams,,Male,Dermatology,Cancer,2023-03-30 00:00:00,,Dr. E. Patel
+P166,Ava Davis,67,Male,Dermatology,,2023-02-11 00:00:00,,Dr. B. Lee
+P167,Daniel Martinez,12,,Orthopedics,Cancer,2023-05-07 00:00:00,,Dr. C. Adams
+P168,Amelia Thomas,2,Other,Pediatrics,Asthma,2023-03-15 00:00:00,2417,Dr. A. Smith
+P169,Charlotte Martin,11,Other,Pediatrics,Skin Rash,2023-03-07 00:00:00,4175,
+P170,Sophia Moore,10,Female,General Surgery,Flu,2023-04-27 00:00:00,,Dr. B. Lee
+P171,Daniel Taylor,,Female,Dermatology,Appendicitis,2023-03-06 00:00:00,,Dr. D. Johnson
+P172,Michael Wilson,,,General Surgery,Asthma,2023-04-11 00:00:00,Invalid,Dr. E. Patel
+P173,Amelia Davis,1,,,Diabetes,2023-03-21 00:00:00,3696,Dr. A. Smith
+P174,Sophia Martin,,,Neurology,Hypertension,2023-06-04 00:00:00,4058,Dr. G. Ali
+P175,Emma Anderson,,Female,Cardiology,Cancer,2023-01-05 00:00:00,,Dr. A. Smith
+P176,Charlotte Miller,32,Female,Neurology,Asthma,2023-03-08 00:00:00,,Dr. G. Ali
+P177,William Garcia,4,Female,Pediatrics,Migraine,2023-01-31 00:00:00,1953,Dr. F. Chen
+P178,Mia Martinez,,Female,General Surgery,Asthma,2023-06-24 00:00:00,,Dr. B. Lee
+P179,John Moore,24,Other,General Surgery,Hypertension,2023-04-06 00:00:00,4779,Dr. F. Chen
+P180,Sophia Martinez,,Other,,Migraine,2023-05-29 00:00:00,4404,Dr. C. Adams
+P181,Isabella Davis,,Other,,Asthma,2023-02-23 00:00:00,,Dr. A. Smith
+P182,Emily Martin,5,,Cardiology,Asthma,2023-03-05 00:00:00,999,Dr. C. Adams
+P183,Ethan Garcia,,,Cardiology,Diabetes,2023-02-06 00:00:00,Invalid,Dr. A. Smith
+P184,Liam Garcia,75,Other,Pediatrics,Hypertension,2023-01-07 00:00:00,989,Dr. B. Lee
+P185,Sarah Martinez,41,Male,Dermatology,Asthma,2023-04-12 00:00:00,,
+P186,Amelia Thomas,76,Other,,Asthma,2023-01-10 00:00:00,686,Dr. B. Lee
+P187,Sarah Wilson,,,Dermatology,Hypertension,2023-01-27 00:00:00,2292,Dr. D. Johnson
+P188,Sarah Martin,,Male,,Asthma,2023-03-22 00:00:00,,Dr. D. Johnson
+P189,Emily Smith,,Female,Dermatology,Diabetes,2023-03-20 00:00:00,3280,Dr. F. Chen
+P190,David Brown,,Other,General Surgery,Flu,2023-06-01 00:00:00,,Dr. F. Chen
+P191,Daniel Jones,58,Other,Orthopedics,Hypertension,2023-03-04 00:00:00,,Dr. G. Ali
+P192,Mia Martinez,31,,Dermatology,Flu,2023-02-08 00:00:00,,Dr. B. Lee
+P193,Emily Gonzalez,3,Male,Pediatrics,,2023-05-01 00:00:00,3234,Dr. A. Smith
+P194,Daniel Rodriguez,,Male,Dermatology,Migraine,2023-05-03 00:00:00,,Dr. E. Patel
+P195,Michael Rodriguez,,,,Hypertension,2023-03-12 00:00:00,2950,Dr. F. Chen
+P196,Ava Williams,,Male,Orthopedics,Unknown,2023-06-25 00:00:00,4232,Dr. E. Patel
+P197,Sophia Johnson,84,Female,Dermatology,Migraine,2023-01-15 00:00:00,4052,Dr. G. Ali
+P198,Emily Jones,,,Oncology,Diabetes,2023-01-09 00:00:00,,Dr. E. Patel
+P199,Emma Rodriguez,17,Female,Oncology,Migraine,2023-06-09 00:00:00,,Dr. B. Lee
+P200,Alexander Martin,72,Other,,Diabetes,2023-03-09 00:00:00,,Dr. G. Ali
+P201,Olivia Jones,31,Female,Dermatology,Hypertension,2023-06-17 00:00:00,,Dr. B. Lee
+P202,Sarah Hernandez,,,Neurology,Diabetes,2023-05-16 00:00:00,,Dr. G. Ali
+P203,Emily Smith,28,Other,Neurology,Flu,2023-01-27 00:00:00,595,Dr. A. Smith
+P204,Noah Anderson,7,Female,Cardiology,,2023-05-12 00:00:00,,Dr. B. Lee
+P205,Mia Anderson,33,Male,Neurology,Flu,2023-04-30 00:00:00,,Dr. F. Chen
+P206,James Gonzalez,24,Other,Dermatology,Unknown,2023-06-16 00:00:00,,Dr. G. Ali
+P207,Ethan Rodriguez,25,Female,Neurology,Migraine,2023-03-29 00:00:00,3200,Dr. B. Lee
+P208,John Martinez,20,Male,Oncology,,2023-02-06 00:00:00,4121,Dr. D. Johnson
+P209,Liam Johnson,75,Other,Neurology,Fracture,2023-01-28 00:00:00,,Dr. D. Johnson
+P210,Alexander Davis,,Other,Oncology,Skin Rash,Not Recorded,,Dr. B. Lee
+P211,John Davis,,Female,,,2023-03-13 00:00:00,,Dr. E. Patel
+P212,Charlotte Thomas,76,Male,Dermatology,Hypertension,2023-06-30 00:00:00,2585,Dr. G. Ali
+P213,Emma Johnson,65,Female,Orthopedics,Diabetes,2023-06-30 00:00:00,4161,Dr. A. Smith
+P214,Michael Brown,,,General Surgery,,2023-05-20 00:00:00,818,Dr. D. Johnson
+P215,John Jones,,Female,Orthopedics,Hypertension,2023-04-28 00:00:00,,Dr. E. Patel
+P216,Daniel Miller,,Other,General Surgery,Skin Rash,2023-06-08 00:00:00,Invalid,Dr. B. Lee
+P217,Daniel Rodriguez,,,Pediatrics,Hypertension,2023-04-20 00:00:00,4915,Dr. B. Lee
+P218,Michael Garcia,,Other,Cardiology,Cancer,2023-05-23 00:00:00,4297,
+P219,David Jackson,34,,Cardiology,Fracture,2023-05-28 00:00:00,,Dr. B. Lee
+P220,Michael Rodriguez,,,Cardiology,Cancer,2023-02-09 00:00:00,2561,Dr. D. Johnson
+P221,Emily Brown,,Other,Dermatology,Appendicitis,2023-04-10 00:00:00,3079,Dr. C. Adams
+P222,William Jones,,Male,Cardiology,Flu,2023-05-18 00:00:00,,Dr. G. Ali
+P223,David Johnson,,Other,Cardiology,Skin Rash,2023-04-29 00:00:00,,Dr. D. Johnson
+P224,Noah Smith,,Male,General Surgery,Diabetes,2023-03-02 00:00:00,,Dr. G. Ali
+P225,Isabella Wilson,20,,Neurology,Unknown,2023-02-22 00:00:00,4180,Dr. A. Smith
+P226,Ethan Martinez,18,Male,Neurology,Asthma,2023-01-30 00:00:00,Invalid,Dr. D. Johnson
+P227,Sarah Davis,,Male,Pediatrics,Asthma,2023-06-26 00:00:00,,Dr. F. Chen
+P228,Emily Garcia,18,Male,Dermatology,Hypertension,2023-03-09 00:00:00,,Dr. F. Chen
+P229,Michael Taylor,31,Male,Pediatrics,,2023-06-17 00:00:00,,Dr. A. Smith
+P230,Liam Hernandez,52,Female,Oncology,Flu,2023-04-26 00:00:00,,Dr. E. Patel
+P231,Emily Moore,38,Other,General Surgery,Hypertension,2023-06-14 00:00:00,,Dr. B. Lee
+P232,Olivia Brown,,Female,Neurology,Flu,2023-04-01 00:00:00,,Dr. D. Johnson
+P233,Emma Brown,,Female,Cardiology,Hypertension,2023-04-10 00:00:00,,
+P234,Amelia Moore,,Other,Cardiology,Migraine,2023-01-10 00:00:00,,Dr. E. Patel
+P235,Sophia Martin,52,,Dermatology,Hypertension,2023-05-24 00:00:00,1704,Dr. F. Chen
+P236,Olivia Miller,46,,General Surgery,Diabetes,2023-03-17 00:00:00,,Dr. B. Lee
+P237,Daniel Anderson,74,Male,Neurology,Appendicitis,Not Recorded,,Dr. A. Smith
+P238,William Garcia,31,Female,Neurology,Diabetes,2023-04-10 00:00:00,,Dr. D. Johnson
+P239,Michael Lopez,56,Female,Neurology,Flu,2023-03-26 00:00:00,,Dr. B. Lee
+P240,Charlotte Hernandez,,,General Surgery,Skin Rash,2023-04-15 00:00:00,1044,Dr. C. Adams
+P241,Isabella Wilson,82,Male,,Migraine,2023-05-18 00:00:00,,Dr. G. Ali
+P242,Charlotte Moore,,Female,,Fracture,2023-06-24 00:00:00,,Dr. D. Johnson
+P243,Mia Hernandez,82,Other,General Surgery,Diabetes,2023-05-20 00:00:00,3292,Dr. C. Adams
+P244,Ethan Thomas,5,Male,Cardiology,Hypertension,2023-02-03 00:00:00,,Dr. B. Lee
+P245,Daniel Davis,,,Dermatology,Fracture,2023-01-06 00:00:00,2802,Dr. G. Ali
+P246,Michael Thomas,,Other,Orthopedics,Hypertension,2023-06-19 00:00:00,4683,Dr. D. Johnson
+P247,David Martinez,62,Other,Dermatology,Skin Rash,2023-03-18 00:00:00,1967,Dr. A. Smith
+P248,Emma Moore,81,,General Surgery,Cancer,2023-02-21 00:00:00,1753,
+P249,Noah Hernandez,,Female,Pediatrics,Appendicitis,2023-04-07 00:00:00,,
+P250,Charlotte Garcia,,Female,Cardiology,Diabetes,2023-04-22 00:00:00,2242,Dr. B. Lee
+P251,Liam Williams,,Other,Orthopedics,,2023-03-27 00:00:00,3476,
+P252,Noah Brown,,Male,Neurology,Unknown,2023-03-12 00:00:00,,Dr. B. Lee
+P253,Emily Wilson,45,Other,Oncology,Diabetes,2023-04-11 00:00:00,3878,Dr. A. Smith
+P254,James Miller,,Other,,Asthma,2023-04-29 00:00:00,3629,Dr. A. Smith
+P255,Michael Smith,Unknown,,Cardiology,Hypertension,2023-02-10 00:00:00,Invalid,Dr. A. Smith
+P256,Ava Garcia,,Other,,Appendicitis,2023-04-23 00:00:00,,
+P257,James Hernandez,37,Male,,Appendicitis,2023-06-11 00:00:00,,Dr. D. Johnson
+P258,Olivia Davis,,Male,Cardiology,Asthma,2023-04-18 00:00:00,,Dr. C. Adams
+P259,Alexander Williams,80,,Pediatrics,Asthma,2023-06-07 00:00:00,,Dr. F. Chen
+P260,John Taylor,,Female,Cardiology,Hypertension,2023-04-19 00:00:00,527,Dr. G. Ali
+P261,Olivia Taylor,,Other,Oncology,Cancer,2023-03-20 00:00:00,,Dr. D. Johnson
+P262,Sophia Miller,,Other,Neurology,Asthma,2023-02-25 00:00:00,2523,Dr. A. Smith
+P263,Mia Miller,18,,Neurology,Flu,2023-05-04 00:00:00,,Dr. D. Johnson
+P264,Amelia Anderson,70,Female,General Surgery,Diabetes,2023-04-13 00:00:00,,Dr. D. Johnson
+P265,Isabella Jones,36,,Pediatrics,Diabetes,2023-03-05 00:00:00,4640,Dr. D. Johnson
+P266,Sarah Jones,62,Female,Dermatology,Skin Rash,2023-06-20 00:00:00,4597,
+P267,Emma Moore,,Other,Neurology,Hypertension,2023-04-08 00:00:00,875,Dr. A. Smith
+P268,Amelia Williams,,Other,,Skin Rash,2023-02-22 00:00:00,,Dr. A. Smith
+P269,Olivia Miller,2,Other,Neurology,Cancer,2023-02-13 00:00:00,,Dr. B. Lee
+P270,Ava Lopez,,,Orthopedics,Diabetes,2023-03-06 00:00:00,,Dr. B. Lee
+P271,Sophia Davis,,,Orthopedics,Flu,2023-05-05 00:00:00,2816,Dr. E. Patel
+P272,Mia Rodriguez,81,Female,Cardiology,Unknown,2023-02-21 00:00:00,,Dr. C. Adams
+P273,Emma Johnson,17,Other,Dermatology,,2023-06-24 00:00:00,Invalid,Dr. D. Johnson
+P274,Emily Martin,Unknown,,Pediatrics,Cancer,2023-03-01 00:00:00,1603,Dr. F. Chen
+P275,Michael Thomas,,Male,Oncology,Migraine,2023-02-28 00:00:00,,Dr. E. Patel
+P276,Mia Miller,11,Male,Orthopedics,Diabetes,2023-06-30 00:00:00,Invalid,
+P277,Ethan Miller,,,Pediatrics,Migraine,2023-06-18 00:00:00,,Dr. C. Adams
+P278,Ethan Williams,,Female,Orthopedics,Flu,2023-01-26 00:00:00,620,Dr. F. Chen
+P279,James Lopez,,Female,Dermatology,Fracture,2023-01-14 00:00:00,4454,Dr. C. Adams
+P280,William Wilson,22,,Oncology,Appendicitis,2023-01-06 00:00:00,4579,Dr. F. Chen
+P281,Sophia Taylor,11,Female,General Surgery,Diabetes,2023-05-24 00:00:00,1848,Dr. C. Adams
+P282,Alexander Anderson,,Other,Pediatrics,Fracture,2023-06-21 00:00:00,,Dr. C. Adams
+P283,Isabella Miller,,Other,Pediatrics,Flu,2023-05-20 00:00:00,,Dr. B. Lee
+P284,James Johnson,53,,Neurology,Asthma,2023-01-30 00:00:00,4085,Dr. B. Lee
+P285,Alexander Moore,46,Male,General Surgery,Appendicitis,2023-05-17 00:00:00,738,Dr. A. Smith
+P286,James Moore,,Female,Orthopedics,Appendicitis,2023-05-22 00:00:00,,Dr. F. Chen
+P287,Emily Martin,25,Male,Orthopedics,Hypertension,2023-01-06 00:00:00,753,Dr. C. Adams
+P288,Olivia Jones,72,Male,Oncology,Migraine,2023-02-25 00:00:00,,Dr. A. Smith
+P289,Mia Martinez,,Male,Orthopedics,Migraine,2023-03-29 00:00:00,,Dr. A. Smith
+P290,Ava Lopez,,,,,2023-04-09 00:00:00,,Dr. A. Smith
+P291,Alexander Wilson,,Male,Dermatology,Flu,2023-01-21 00:00:00,3348,Dr. F. Chen
+P292,Daniel Martinez,20,Female,,Asthma,2023-04-21 00:00:00,,Dr. D. Johnson
+P293,Mia Jackson,89,Other,Neurology,Appendicitis,2023-02-15 00:00:00,4502,Dr. A. Smith
+P294,Liam Johnson,65,Female,Pediatrics,Flu,2023-05-27 00:00:00,,Dr. G. Ali
+P295,Amelia Gonzalez,,Female,Cardiology,Appendicitis,2023-03-05 00:00:00,,Dr. D. Johnson
+P296,Alexander Jackson,,Male,Oncology,Diabetes,2023-04-13 00:00:00,2054,Dr. F. Chen
+P297,Sarah Martinez,42,,Orthopedics,Flu,2023-02-21 00:00:00,Invalid,Dr. C. Adams
+P298,Alexander Thomas,67,Other,General Surgery,Cancer,2023-06-09 00:00:00,3582,
+P299,Alexander Anderson,63,Female,Neurology,Skin Rash,2023-04-07 00:00:00,2398,
+P300,Charlotte Rodriguez,,,Cardiology,Flu,2023-01-29 00:00:00,Invalid,Dr. C. Adams
