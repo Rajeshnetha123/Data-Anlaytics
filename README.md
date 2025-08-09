@@ -80,6 +80,9 @@ pip install pandas numpy matplotlib seaborn openpyxl
  📬 Contact
 
 💼 Name: Rajesh Nagula
+
 📧 Email: rajeshnetha1234@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/nagula-rajesh
-🔗 GitHub: \[Your GitHub Profile]
+
+🔗 GitHub: https://github.com/Rajeshnetha123
